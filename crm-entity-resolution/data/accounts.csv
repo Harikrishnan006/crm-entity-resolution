@@ -1,0 +1,21 @@
+account_id,name,domain,owner,employees,city,legal_name,open_opps,last_activity,external_ref,notes
+ACC-001,Vireo Labs,vireolabs.test,dana,410,Boise,Vireo Labs LLC,1,2027-02-09,VR-500,Primary site
+ACC-002,Vireo Laboratories,vireolabs.test,ravi,410,Boise,Vireo Labs LLC,0,2027-02-11,VR-500,Imported from event list
+ACC-003,Caldera Group,caldera.test,dana,820,Reno,Caldera Group Inc,1,2027-02-03,CG-21,Parent account
+ACC-004,Caldera Field Services,caldera.test,ravi,95,Reno,Caldera Field Services LLC,1,2027-02-12,CG-22,"Division, separate contract"
+ACC-005,Pinewood Signal,pinewoodsignal.test,dana,260,Tulsa,Pinewood Signal Inc,1,2027-02-10,PW-07,Call analytics vendor
+ACC-006,Pinewood Audio,pinewoodaudio.test,ravi,260,Tulsa,Pinewood Signal Inc,0,2027-02-06,PW-07,Rebrand mentioned during import
+ACC-007,Harbor Lane Capital,harborlane.test,dana,70,Omaha,Harbor Lane Capital LLC,0,2027-01-29,HL-33,Distinct business
+ACC-008,Harbour Lane Capital,harbourlanecap.test,ravi,70,Des Moines,Harbour Lane Capital Ltd,0,2027-01-28,HLC-91,Name similarity only
+ACC-009,Tessellate Retail,tessellate.test,dana,150,Mesa,Tessellate Retail LLC,0,2027-02-13,TS-18,Marketing sourced
+ACC-010,Tesselate Retail,tessellate.test,ravi,150,Mesa,Tessellate Retail LLC,1,2027-02-02,TS-18,Owner differs; live deal
+ACC-011,Orrery Systems,orrery.test,dana,540,Akron,Orrery Systems Corp,0,2027-02-11,OR-60,Enterprise account
+ACC-012,Orrery Systems Integration,orrery.test,ravi,540,Akron,Orrery Systems Integration LLC,0,2027-02-08,OR-61,Subsidiary? shared domain
+ACC-013,Juniper Freight,juniperfreight.test,dana,300,Spokane,Juniper Freight Inc,1,2027-02-07,JF-12,Main record
+ACC-014,Juniper Freight Inc.,juniperfreight.test,ravi,300,Spokane,Juniper Freight Inc,0,2027-02-01,JF-12,Created by sales
+ACC-015,Juniper Frieght,juniperfreight.test,dana,300,Spokane,Juniper Freight Inc,0,2027-01-30,JF-12,Typo on web form
+ACC-016,Quillon Analytics,quillonanalytics.test,dana,120,Fargo,Quillon Analytics LLC,1,2027-02-05,QA-04,Data tooling
+ACC-017,Quillon Biosciences,quillonbio.test,ravi,640,Madison,Quillon Biosciences Inc,1,2027-02-04,QB-77,Unrelated to QA-04
+ACC-018,Marrow Pike Logistics,marrowpike.test,dana,45,Duluth,Marrow Pike Logistics LLC,0,2027-01-26,MP-01,
+ACC-019,Beacon Hollow Media,beaconhollow.test,ravi,210,Lubbock,Beacon Hollow Media Inc,1,2027-02-09,BH-15,
+ACC-020,Saltmarsh Interiors,saltmarsh.test,dana,33,Erie,Saltmarsh Interiors LLC,0,2027-01-22,SM-08,

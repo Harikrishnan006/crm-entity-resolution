@@ -1,0 +1,25 @@
+lead_id,account_id,role,icp_fit,email_status,phone_status,duplicate_flag,outreach_status
+LEAD-01,ACC-001,Operations VP,strong,verified,verified,no,not_started
+LEAD-02,ACC-001,Head of Revenue,strong,verified,verified,no,not_started
+LEAD-03,ACC-003,Procurement Lead,strong,verified,verified,no,not_started
+LEAD-04,ACC-003,Operations VP,strong,verified,missing,no,not_started
+LEAD-05,ACC-004,Field Ops Manager,strong,verified,verified,no,not_started
+LEAD-06,ACC-005,Contact Centre Director,strong,verified,verified,possible,not_started
+LEAD-07,ACC-007,CFO,weak,verified,verified,no,not_started
+LEAD-08,ACC-009,Demand Gen Manager,strong,unverified,verified,no,not_started
+LEAD-09,ACC-010,Head of Retail Ops,strong,verified,verified,possible,not_started
+LEAD-10,ACC-013,Logistics Director,strong,verified,verified,no,not_started
+LEAD-11,ACC-013,Logistics Director,strong,verified,verified,no,not_started
+LEAD-12,ACC-013,Logistics Director,strong,verified,verified,no,not_started
+LEAD-13,ACC-013,Fleet Manager,strong,verified,verified,no,active
+LEAD-14,ACC-016,Head of Analytics,strong,verified,verified,no,not_started
+LEAD-15,ACC-016,Data Platform Lead,strong,missing,missing,no,not_started
+LEAD-16,ACC-017,Lab Operations Lead,weak,verified,verified,no,not_started
+LEAD-17,ACC-018,Owner,strong,verified,verified,no,not_started
+LEAD-18,ACC-019,Marketing Director,strong,verified,verified,no,active
+LEAD-19,ACC-019,Head of Content,strong,verified,verified,no,not_started
+LEAD-20,ACC-020,Studio Manager,strong,verified,verified,no,not_started
+LEAD-21,ACC-011,IT Director,strong,verified,verified,no,not_started
+LEAD-22,ACC-012,Services Director,strong,verified,verified,no,not_started
+LEAD-23,ACC-006,Audio Engineering Lead,strong,verified,verified,possible,not_started
+LEAD-24,ACC-020,Studio Manager,strong,verified,verified,no,not_started

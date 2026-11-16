@@ -1,0 +1,33 @@
+name: verify
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.9", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate the synthetic dataset
+        run: python data/generate_sample_data.py
+
+      - name: Assert decisions against the expectations table
+        run: pytest -v
+
+      - name: Run the resolver end to end
+        run: PYTHONPATH=src python src/dedupe.py
+
+      - name: Run lead routing end to end
+        run: PYTHONPATH=src python src/allocate.py

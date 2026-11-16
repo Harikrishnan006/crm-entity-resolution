@@ -1,0 +1,19 @@
+relationship_id,account_id,record_type,related_id,status,owner,risk_note
+REL-001,ACC-001,opportunity,OPP-900,open,dana,retain stage and owner
+REL-002,ACC-002,contact,CON-700,active,ravi,possible duplicate contact
+REL-003,ACC-003,opportunity,OPP-901,open,dana,separate legal contract
+REL-004,ACC-004,opportunity,OPP-902,open,ravi,separate legal contract
+REL-005,ACC-005,opportunity,OPP-903,open,dana,may survive rebrand
+REL-006,ACC-006,activity,ACT-800,complete,ravi,validate rebrand
+REL-007,ACC-007,activity,ACT-801,complete,dana,different business
+REL-008,ACC-008,activity,ACT-802,complete,ravi,different business
+REL-009,ACC-009,contact,CON-701,active,dana,retain
+REL-010,ACC-010,opportunity,OPP-904,open,ravi,owner conflict
+REL-011,ACC-011,contact,CON-702,active,dana,check entity boundary
+REL-012,ACC-012,contact,CON-703,active,ravi,potential subsidiary
+REL-013,ACC-013,opportunity,OPP-905,open,dana,retain
+REL-014,ACC-014,activity,ACT-803,complete,ravi,retain
+REL-015,ACC-015,activity,ACT-804,complete,dana,retain
+REL-016,ACC-016,opportunity,OPP-906,open,dana,retain
+REL-017,ACC-017,opportunity,OPP-907,open,ravi,retain
+REL-018,ACC-019,opportunity,OPP-908,open,ravi,retain
